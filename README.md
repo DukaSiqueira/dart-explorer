@@ -12,6 +12,11 @@ DartExplorer is a personal project where I document my progress, experiments, an
 - Single type lists
 - dynamic lists
 
+## Usage
+#### TODO
+
+Each subdirectory contains its own README with explanations and instructions. You can navigate to each topic to find code snippets, explanations, and usage instructions.
+
 ## Contributing
 
 Contributions are not currently being accepted for this personal learning project. Feel free to fork the repository and adapt it for your own learning journey.
