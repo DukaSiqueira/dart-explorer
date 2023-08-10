@@ -84,6 +84,7 @@ void main(List<String> arguments) {
   // password = 'a';
   print(password.runtimeType);
 
-
+  var String b = 'b';
+  b = 'c';
 
 }
